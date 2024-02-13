@@ -1,0 +1,15 @@
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\bin\Debug\net8.0\SistemaJogoDeXadrez.exe
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\bin\Debug\net8.0\SistemaJogoDeXadrez.deps.json
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\bin\Debug\net8.0\SistemaJogoDeXadrez.runtimeconfig.json
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\bin\Debug\net8.0\SistemaJogoDeXadrez.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\bin\Debug\net8.0\SistemaJogoDeXadrez.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\obj\Debug\net8.0\SistemaJogoDeXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\obj\Debug\net8.0\SistemaJogoDeXadrez.AssemblyInfoInputs.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\obj\Debug\net8.0\SistemaJogoDeXadrez.AssemblyInfo.cs
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\obj\Debug\net8.0\SistemaJogoDeXadrez.csproj.CoreCompileInputs.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\obj\Debug\net8.0\SistemaJogoDeXadrez.sourcelink.json
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\obj\Debug\net8.0\SistemaJogoDeXadrez.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\obj\Debug\net8.0\refint\SistemaJogoDeXadrez.dll
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\obj\Debug\net8.0\SistemaJogoDeXadrez.pdb
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\obj\Debug\net8.0\SistemaJogoDeXadrez.genruntimeconfig.cache
+C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\obj\Debug\net8.0\ref\SistemaJogoDeXadrez.dll
