@@ -1,7 +1,8 @@
-﻿using SistemaJogoDeXadrez.tabuleiro;
+﻿using SistemaJogoDeXadrez;
+using SistemaJogoDeXadrez.tabuleiro;
 
-Posicao p;
+Tabuleiro tab = new Tabuleiro(8,8);
 
-p = new Posicao(3,4);
+Tela.ImprimirTabuleiro(tab);
 
-System.Console.WriteLine(p);
+
