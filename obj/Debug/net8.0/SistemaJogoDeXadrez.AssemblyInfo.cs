@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaJogoDeXadrez")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38099dedbc6faea270c3741cbd32d3c3ab2483d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b122ee38721c038c6266bce3f4201e092d937b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaJogoDeXadrez")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaJogoDeXadrez")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
