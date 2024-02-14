@@ -20,5 +20,10 @@ namespace SistemaJogoDeXadrez.tabuleiro
             QtdeMovimentos = 0;
         }
 
+        public void IncrementarQtdeMovimentos()
+        {
+            QtdeMovimentos++;
+        }
+
     }
 }

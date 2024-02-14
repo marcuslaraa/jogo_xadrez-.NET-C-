@@ -6,11 +6,28 @@ using SistemaJogoDeXadrez.xadrez;
 // PosicaoXadrez pos = new PosicaoXadrez('a', 1);
 
 // System.Console.WriteLine(pos.toPosicao());
-Tabuleiro tab = new Tabuleiro(8,8);
+try
+{
+    PartidaDeXadrez partida = new PartidaDeXadrez();
 
-tab.ColocarPeca(new Torre(tab, Cor.Branca), new Posicao(0 , 5));
-tab.ColocarPeca(new Torre(tab, Cor.Amarela), new Posicao(3 , 6));
-Tela.ImprimirTabuleiro(tab);
+    while(!partida.Terminada)
+    {
+        Console.Clear();
+        Tela.ImprimirTabuleiro(partida.Tab);
+
+        System.Console.WriteLine("Origem: ");
+        Posicao origem = Tela.LerPosicaoXadrez().toPosicao();
+        System.Console.WriteLine("Destino: ");
+        Posicao destino = Tela.LerPosicaoXadrez().toPosicao();
+
+        partida.ExecutaMovimento(origem, destino);
+    }
+
+}
+catch(TabuleiroException e)
+{
+    System.Console.WriteLine(e.Message);
+}
 
 
 
