@@ -13,3 +13,18 @@ C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJog
 C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\obj\Debug\net8.0\SistemaJogoDeXadrez.pdb
 C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\obj\Debug\net8.0\SistemaJogoDeXadrez.genruntimeconfig.cache
 C:\Users\marcu\OneDrive\Área de Trabalho\Estudos\UDEMY\.NET\Projetos\SistemaJogoDeXadrez\obj\Debug\net8.0\ref\SistemaJogoDeXadrez.dll
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\bin\Debug\net8.0\SistemaJogoDeXadrez.exe
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\bin\Debug\net8.0\SistemaJogoDeXadrez.deps.json
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\bin\Debug\net8.0\SistemaJogoDeXadrez.runtimeconfig.json
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\bin\Debug\net8.0\SistemaJogoDeXadrez.dll
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\bin\Debug\net8.0\SistemaJogoDeXadrez.pdb
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\obj\Debug\net8.0\SistemaJogoDeXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\obj\Debug\net8.0\SistemaJogoDeXadrez.AssemblyInfoInputs.cache
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\obj\Debug\net8.0\SistemaJogoDeXadrez.AssemblyInfo.cs
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\obj\Debug\net8.0\SistemaJogoDeXadrez.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\obj\Debug\net8.0\SistemaJogoDeXadrez.sourcelink.json
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\obj\Debug\net8.0\SistemaJogoDeXadrez.dll
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\obj\Debug\net8.0\refint\SistemaJogoDeXadrez.dll
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\obj\Debug\net8.0\SistemaJogoDeXadrez.pdb
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\obj\Debug\net8.0\SistemaJogoDeXadrez.genruntimeconfig.cache
+C:\Users\win\Desktop\Nova pasta\Marcus\jogo_xadrez-.NET-C-\obj\Debug\net8.0\ref\SistemaJogoDeXadrez.dll

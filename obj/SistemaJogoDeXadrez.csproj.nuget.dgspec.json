@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marcu\\OneDrive\\Área de Trabalho\\Estudos\\UDEMY\\.NET\\Projetos\\SistemaJogoDeXadrez\\SistemaJogoDeXadrez.csproj": {}
+    "C:\\Users\\win\\Desktop\\Nova pasta\\Marcus\\jogo_xadrez-.NET-C-\\SistemaJogoDeXadrez.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marcu\\OneDrive\\Área de Trabalho\\Estudos\\UDEMY\\.NET\\Projetos\\SistemaJogoDeXadrez\\SistemaJogoDeXadrez.csproj": {
+    "C:\\Users\\win\\Desktop\\Nova pasta\\Marcus\\jogo_xadrez-.NET-C-\\SistemaJogoDeXadrez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marcu\\OneDrive\\Área de Trabalho\\Estudos\\UDEMY\\.NET\\Projetos\\SistemaJogoDeXadrez\\SistemaJogoDeXadrez.csproj",
+        "projectUniqueName": "C:\\Users\\win\\Desktop\\Nova pasta\\Marcus\\jogo_xadrez-.NET-C-\\SistemaJogoDeXadrez.csproj",
         "projectName": "SistemaJogoDeXadrez",
-        "projectPath": "C:\\Users\\marcu\\OneDrive\\Área de Trabalho\\Estudos\\UDEMY\\.NET\\Projetos\\SistemaJogoDeXadrez\\SistemaJogoDeXadrez.csproj",
-        "packagesPath": "C:\\Users\\marcu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marcu\\OneDrive\\Área de Trabalho\\Estudos\\UDEMY\\.NET\\Projetos\\SistemaJogoDeXadrez\\obj\\",
+        "projectPath": "C:\\Users\\win\\Desktop\\Nova pasta\\Marcus\\jogo_xadrez-.NET-C-\\SistemaJogoDeXadrez.csproj",
+        "packagesPath": "C:\\Users\\win\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\win\\Desktop\\Nova pasta\\Marcus\\jogo_xadrez-.NET-C-\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marcu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\win\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

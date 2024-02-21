@@ -9,6 +9,41 @@ namespace SistemaJogoDeXadrez
 {
     public class Tela
     {
+
+        public static void ImprimirPartida(PartidaDeXadrez partida)
+        {
+            ImprimirTabuleiro(partida.Tab);
+            Console.WriteLine();
+            ImprimirPecasCapturadas(partida);
+            System.Console.WriteLine();
+            System.Console.WriteLine("Turno: " + partida.Turno);
+            System.Console.WriteLine("Aguardando jogada: " + partida.JogadorAtual);
+        }
+
+        public static void ImprimirPecasCapturadas(PartidaDeXadrez partida)
+        {
+            System.Console.WriteLine("Peças Capturadas: ");
+            System.Console.Write("Brancas: ");
+            ImprimirConjunto(partida.PecasCapturadas(Cor.Branca));
+            System.Console.WriteLine();
+            System.Console.Write("Pretas: ");
+            ConsoleColor aux = Console.ForegroundColor;
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            ImprimirConjunto(partida.PecasCapturadas(Cor.Preta));
+            Console.ForegroundColor = aux;
+            System.Console.WriteLine();
+        }
+
+        public static void ImprimirConjunto(HashSet<Peca> conjunto)
+        {
+            System.Console.Write("[");
+            foreach (Peca x in conjunto)
+            {
+                System.Console.Write(x + " ");
+            }
+            System.Console.Write("]");
+
+        }
         public static void ImprimirTabuleiro(Tabuleiro tab)
         {
    
